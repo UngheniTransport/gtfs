@@ -1,8 +1,8 @@
 # 🚌 GTFS Ungheni (Official Feed)
 
-**[RO]** Acesta este depozitul oficial de date deschise (Open Data) pentru transportul public din Municipiul Ungheni, gestionat de **Ungheni Transport Public** - **Eurohome Construct S.R.L.** (via [unghenitransport.md](https://unghenitransport.md)).
+**[RO]** Acesta este depozitul oficial de date deschise (Open Data) pentru transportul public din Municipiul Ungheni, gestionat de **Transport Public Ungheni** - **Eurohome Construct S.R.L.** (via [unghenitransport.md](https://unghenitransport.md)).
 
-**[EN]** This is the official open data repository for public transport in Ungheni Municipality, managed by **Ungheni Transport Public** - **Eurohome Construct S.R.L.** (via [unghenitransport.md](https://unghenitransport.md)).
+**[EN]** This is the official open data repository for public transport in Ungheni Municipality, managed by **Transport Public Ungheni** - **Eurohome Construct S.R.L.** (via [unghenitransport.md](https://unghenitransport.md)).
 
 ---
 
@@ -36,4 +36,4 @@ For developers and integrators, please use this permanent direct link for automa
 **[RO]** Aceste date sunt furnizate sub licența **Creative Commons Attribution 4.0 International (CC BY 4.0)**. Sunteți liber să copiați și să redistribuiți materialul în orice mediu sau format, în orice scop, inclusiv comercial, cu condiția să oferiți creditul corespunzător.
 
 ---
-© 2025-2026 Ungheni Transport Public | [unghenitransport.md](https://unghenitransport.md)
+© 2025-2026 Transport Public Ungheni | [unghenitransport.md](https://unghenitransport.md)
