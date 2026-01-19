@@ -22,8 +22,8 @@ For developers and integrators, please use this permanent direct link for automa
 
 * **Format:** GTFS Static v2.0
 * **Location:** Ungheni, Moldova
-* **Stops:** 41 
-* **Trips:** 112 
+* **Stops:** 123
+* **Trips:** 501
 * **Validation:** 0 Errors / 0 Warnings (Passed by MobilityData Validator)
 * **Maintainer:** [gtfs@unghenitransport.md](mailto:gtfs@unghenitransport.md)
 
