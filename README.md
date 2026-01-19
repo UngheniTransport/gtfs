@@ -36,4 +36,4 @@ For developers and integrators, please use this permanent direct link for automa
 **[RO]** Aceste date sunt furnizate sub licența **Creative Commons Attribution 4.0 International (CC BY 4.0)**. Sunteți liber să copiați și să redistribuiți materialul în orice mediu sau format, în orice scop, inclusiv comercial, cu condiția să oferiți creditul corespunzător.
 
 ---
-© 2026 Ungheni Transport Public | [unghenitransport.md](https://unghenitransport.md)
+© 2025-2026 Ungheni Transport Public | [unghenitransport.md](https://unghenitransport.md)
