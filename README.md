@@ -1,6 +1,6 @@
 # 🚌 GTFS Ungheni (Official Feed)
 
-Acesta este depozitul oficial de date deschise (Open Data) pentru transportul public din Municipiul Ungheni, gestionat de **Ungheni Mobilitate S.R.L.** (via UngheniTransport.md).
+Acesta este depozitul oficial de date deschise (Open Data) pentru transportul public din Municipiul Ungheni, gestionat de Ungheni Transport Public **Eurohome Construct S.R.L.** (via UngheniTransport.md).
 
 This is the official source of GTFS Static data for Ungheni Municipality, Moldova.
 
